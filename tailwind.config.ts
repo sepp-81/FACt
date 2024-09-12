@@ -11,6 +11,11 @@ const config: Config = {
       container: {
         padding: '1rem', 
         center: true,
+      },
+      keyframes: {
+        twist: {
+          '100%': {transform: 'translateY(0) rotate(0)'}
+        }
       }
     },
   },
