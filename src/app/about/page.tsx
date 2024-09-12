@@ -12,7 +12,7 @@ export default function About(){
           </h1>  
         <p className='text-center text-xl mt-8 mb-6'>
         FACt started with a straightforward goal: to make file analysis easier and more accessible. <br/>
-        Whether it's PDFs, DOCXs, or PPTXs, FACt is designed to help users quickly get insights and answers from their documents.<br />
+        Whether it&apso;s PDFs, DOCXs, or PPTXs, FACt is designed to help users quickly get insights and answers from their documents.<br />
         By integrating smart tools, FACt simplifies the way people interact with their files, making it faster to analyze and find what matters.
         </p>
         <div>
