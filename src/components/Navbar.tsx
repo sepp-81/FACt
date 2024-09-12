@@ -13,7 +13,7 @@ export const Navbar = () => {
             <a href= '/#features' className='text-opacity-60 text-white hover:text-opacity-100 transition'>Features</a>
             <a href= '/#sneak' className='text-opacity-60 text-white hover:text-opacity-100 transition'>SneakPeak</a>
             <a href= '/#faq' className='text-opacity-60 text-white hover:text-opacity-100 transition'>FAQs</a>
-            <a href='/login' className='text-opacity-60 text-white hover:text-opacity-100 transition'>Login</a>
+            <a href='https://light-jokes-go.loca.lt/' className='text-opacity-60 text-white hover:text-opacity-100 transition'>Login</a>
           </nav>
         </div>
       </div>
